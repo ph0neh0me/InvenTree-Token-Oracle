@@ -2,6 +2,8 @@
 
 **The included proof of concept is intended solely for authorized security testing and research.**
 
+This has successfully been patched as of version `1.5.3`.
+
 Do not use this material against systems without the explicit permission of their owner. The author accepts no responsibility for misuse, unauthorized activity, damage, or other consequences resulting from its use. Users are responsible for complying with all applicable laws and regulations.
 
 The vulnerability has been responsibly disclosed to the InvenTree maintainers and patched in supported releases. Users should upgrade to a fixed version before testing or deploying affected systems.
